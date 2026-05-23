@@ -1,0 +1,19 @@
+*
+
+.carousel .carousel-item img {
+    border-radius: 15px;
+}
+.carousel {
+    background-color: rgb(0, 0, 0); 
+    background-image: url(https://wallpaperaccess.com/full/2562648.jpg);
+
+}
+body{
+    background-color: rgb(41, 41, 41);
+}
+.navbar{
+    background-color: rgb(41, 41, 43);
+}
+.btn-dourado{
+    background-color: #c9a84c
+}
